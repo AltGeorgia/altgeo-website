@@ -1,0 +1,8 @@
+.drug-info-post > header > h1 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+}
+
+.drug-info-post img {
+  max-width: 100%;
+}

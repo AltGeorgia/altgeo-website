@@ -1,0 +1,192 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/media/uploads
+public_folder: /media/uploads
+display_url: https://altgeorgia.ge
+logo_url: https://altgeorgia.ge/media/altgeo-small-logo.png
+
+collections:
+  - label: "სქემა (მხოლოდ პროგრამისტისთვის)"
+    name: "dummy_schema"
+    editor:
+      preview: false
+    files:
+      - label: "dummy სქემა"
+        name: "dummy_schema"
+        file: "content/dummy_schema.md"
+        fields:
+          - { label: "templateKey", name: "templateKey", widget: "hidden", default: "dummy_schema" }
+  - label: "საკონტაქტო ინფორმაცია"
+    name: "contact_info"
+    editor:
+      preview: false
+    files:
+      - label: "საკონტაქტო ინფორმაცია ინგლისურად"
+        name: "contact_info_en"
+        file: "content/contact/contact_info_en.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "contact_info" }
+          - { label: "Language", name: "language", widget: "hidden", default: "en" }
+          - { label: "მისამართი", name: "address", widget: "string" }
+          - { label: "მისამართი (დამატებითი)", name: "addressExtra", widget: "string", required: false }
+          - { label: "ტელეფონი", name: "telephone", widget: "string" }
+          - { label: "ტელეფონი (დამატებითი)", name: "telephoneExtra", widget: "string", required: false }
+          - { label: "ფაქსი", name: "fax", widget: "string", required: false }
+      - label: "საკონტაქტო ინფორმაცია ქართულად"
+        name: "contact_info_ka"
+        file: "content/contact/contact_info_ka.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "contact_info" }
+          - { label: "Language", name: "language", widget: "hidden", default: "ka" }
+          - { label: "მისამართი", name: "address", widget: "string" }
+          - { label: "მისამართი (დამატებითი)", name: "addressExtra", widget: "string", required: false }
+          - { label: "ტელეფონი", name: "telephone", widget: "string" }
+          - { label: "ტელეფონი (დამატებითი)", name: "telephoneExtra", widget: "string", required: false }
+          - { label: "ფაქსი", name: "fax", widget: "string", required: false }
+  - label: "ჩვენ შესახებ"
+    name: "about_text"
+    editor:
+      preview: false
+    files:
+      - label: "ჩვენ შესახებ ინგლისურად"
+        name: "about_text_en"
+        file: "content/about/about_text_en.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "about_us_text" }
+          - { label: "Language", name: "language", widget: "hidden", default: "en" }
+          - { label: "ტექსტი", name: "body", widget: "markdown" }
+      - label: "ჩვენ შესახებ ქართულად"
+        name: "about_text_ka"
+        file: "content/about/about_text_ka.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "about_us_text" }
+          - { label: "Language", name: "language", widget: "hidden", default: "ka" }
+          - { label: "ტექსტი", name: "body", widget: "markdown" }
+  - label: "მთავარი"
+    name: "home_text"
+    editor:
+      preview: false
+    files:
+      - label: "მთავარი ინგლისურად"
+        name: "home_text_en"
+        file: "content/home/home_text_en.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "home_text" }
+          - { label: "Language", name: "language", widget: "hidden", default: "en" }
+          - { label: "სათაური", name: "title", widget: "string" }
+          - { label: "ქვესათაური", name: "subtitle", widget: "string" }
+      - label: "მთავარი ქართულად"
+        name: "home_text_ka"
+        file: "content/home/home_text_ka.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "home_text" }
+          - { label: "Language", name: "language", widget: "hidden", default: "ka" }
+          - { label: "სათური", name: "title", widget: "string" }
+          - { label: "ქვესათაური", name: "subtitle", widget: "string" }
+  - label: "სიახლეები"
+    name: "news"
+    folder: "content/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "news_post" }
+      - { label: "ენა", name: "language", widget: "select", options: ["ka", "en"] }
+      - { label: "სათაური", name: "title", widget: "string" }
+      - { label: "გამოქვეყნების თარიღი", name: "date", widget: "datetime" }
+      - { label: "მოკლე აღწერა", name: "description", widget: "text" }
+      - { label: "სხეული", name: "body", widget: "markdown" }
+  - label: "პუბლიკაციები"
+    name: "publications"
+    folder: "content/publications"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "publication" }
+      - label: "პუბლიკაციის ტიპი"
+        name: "publicationType"
+        widget: "select"
+        options:
+          - { label: "სამეცნიერო პუბლიკაცია | Scientific publication", value: "scientific_publication" }
+          - { label: "ტექნიკური ანგარიში | Technical report", value: "technical_report" }
+          - { label: "ნარკოვითარება საქართველოში | Drug situation in Georgia", value: "drug_situation_in_georgia" }
+      - { label: "ენა", name: "language", widget: "select", options: ["ka", "en"] }
+      - { label: "სურათი", name: "image", widget: "image", allow_multiple: false, media_library: { config: { multiple: false } } }
+      - { label: "სურათის აღწერა", name: "imageAlt", widget: "string", required: false }
+      - { label: "სათაური", name: "title", widget: "string" }
+      - { label: "გამოქვეყნების თარიღი", name: "publishDate", widget: "datetime" }
+      - { label: "მოკლე აღწერა", name: "description", widget: "text" }
+      - { label: "ატვირთვა", name: "upload", widget: "boolean", default: false, hint: "მონიშნეთ, თუ გსურთ პუბლიკაცია თავად ატვირთოთ. დატოვეთ გამორთული თუ პუბლიკცია გარე საიტზეა (ილინკება)" }
+      - { label: "ქართული ფაილი", name: "kaFile", widget: "file", required: false, allow_multiple: false, media_library: { config: { multiple: false } } }
+      - { label: "ინგლისური ფაილი", name: "enFile", widget: "file", required: false, allow_multiple: false, media_library: { config: { multiple: false } } }
+      - { label: "ქართული ლინკი", name: "kaLink", widget: "string", required: false }
+      - { label: "ინგლისური ლინკი", name: "enLink", widget: "string", required: false }
+  - label: "პროექტები"
+    name: "projects"
+    folder: "content/projects"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "project_item" }
+      - { label: "ენა", name: "language", widget: "select", options: ["ka", "en"] }
+      - { label: "სათაური", name: "title", widget: "string" }
+      - { label: "სურათი", name: "image", widget: "image", allow_multiple: false, media_library: { config: { multiple: false } } }
+      - { label: "სურათის აღწერა", name: "imageAlt", widget: "string", required: false }
+      - { label: "დაწყების თარიღი", name: "startDate", widget: "datetime" }
+      - { label: "მიმდინარე", name: "current", widget: "boolean", default: false }
+      - { label: "დასრულების თარიღი", name: "endDate", widget: "datetime", default: "", required: false }
+      - { label: "აღწერა", name: "description", widget: "text" }
+  - label: "ნარკოტიკებზე ინფორმაცია"
+    name: "drug_info_items"
+    folder: "content/drug-info/items"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "drug_info_item" }
+      - { label: "ენა", name: "language", widget: "select", options: ["ka", "en"] }
+      - { label: "ნარკოტიკის სახელი", name: "title", widget: "string" }
+      - { label: "სურათი", name: "image", widget: "image", allow_multiple: false, media_library: { config: { multiple: false } } }
+      - { label: "სურათის აღწერა", name: "imageAlt", widget: "string", required: false }
+      - { label: "აღწერა", name: "body", widget: "markdown" }
+  - label: "გუნდი"
+    name: "team"
+    identifier_field: fullName
+    folder: "content/team"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "team_member" }
+      - { label: "ენა", name: "language", widget: "select", options: ["ka", "en"] }
+      - { label: "სახელი და გვარი", name: "fullName", widget: "string" }
+      - { label: "თანამდებობა/როლი", name: "role", widget: "string" }
+      - { label: "სურათი", name: "image", widget: "image", allow_multiple: false, media_library: { config: { multiple: false } } }
+      - { label: "ბიო", name: "bio", widget: "text" }
+  - label: "ნარკო-ინფო ტექსტი"
+    name: "drug_info_text"
+    editor:
+      preview: false
+    files:
+      - label: "ნარკო-ინფოს ტექსტი ინგლისურად"
+        name: "drug_info_text_en"
+        file: "content/drug-info/drug_info_description_en.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "drug_info_description" }
+          - { label: "Language", name: "language", widget: "hidden", default: "en" }
+          - { label: "სხეული", name: "body", widget: "markdown" }
+      - label: "ნარკო-ინფოს ტექსტი ქართულად"
+        name: "drug_info_text_ka"
+        file: "content/drug-info/drug_info_description_ka.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "drug_info_description" }
+          - { label: "Language", name: "language", widget: "hidden", default: "ka" }
+          - { label: "სხეული", name: "body", widget: "markdown" }

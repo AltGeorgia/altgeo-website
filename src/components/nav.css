@@ -1,0 +1,114 @@
+nav {
+    background-color: crimson;
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0px 10px 0px;
+    padding: 0;
+}
+
+nav a, nav .dropdown {
+    font-weight: 800;
+    color: white !important;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover:not(.active), nav .dropdown:hover:not(.active) {
+    background-color: #191919;
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: crimson;
+    margin: 14px 0px 0px -16px;
+    min-width: 160px;
+    box-shadow: 0px 3px 6px 1px rgba(0,0,0,0.5);
+    z-index: 10;
+}
+
+.dropdown-content > a {
+    color: #191919;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+nav .active {
+    background-color: grey;
+}
+
+@media screen and (max-width: 800px) {
+    nav {
+        flex-direction: column;
+        display: none;
+    }
+
+    .dropdown:hover {
+        padding-bottom: 0 !important;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    
+    .dropdown-content {
+        position: static;
+        box-shadow: none;
+        background-color: #BF0B37;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .dropdown-content > a {
+        text-align: center;
+    }
+
+    .flags-outer-container {
+        justify-content: space-around !important;
+        order: -1;
+    }
+
+    .flag {
+        width: 25px !important;
+        margin: 4px 20px !important;
+    }
+
+    .flags-inner-container {
+        flex: 1;
+    }
+}
+
+.flags-outer-container {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.flags-inner-container {
+    display: flex;
+    padding: 5px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flag {
+    cursor: pointer;
+    width: 22px;
+    max-height: 22px;
+    margin: 4px 14px;
+    box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.5);
+}
+
+

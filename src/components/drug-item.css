@@ -1,0 +1,36 @@
+.drug-item {
+    padding: 8px 8px 8px 0px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    max-width: 50%;
+}
+
+@media screen and (max-width: 600px) {
+    .drug-item {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        padding: 0;
+    }
+}
+
+.drug-item .drug-image {
+    height: 150px;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+.drug-item h1 {
+    font-size: 1.6em;
+    margin-bottom: 15px;
+}
+
+.drug-item h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.drug-item h1 a:hover {
+    color: crimson;
+    text-decoration: underline;
+}

@@ -1,0 +1,30 @@
+.google-maps-container {
+	margin-right: 30px;
+}
+
+.google-maps-container > iframe {
+	max-width: 100%;
+}
+
+.about-us-lower {
+	display: flex;
+	flex-direction: row;
+}
+
+.team-members-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 800px) {
+	.about-us-lower {
+		flex-direction: column-reverse;
+	}
+
+	.google-maps-container {
+		margin: 0;
+	}
+}

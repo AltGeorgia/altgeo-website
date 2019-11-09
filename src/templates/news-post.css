@@ -1,0 +1,23 @@
+.news-post > header > h1 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+}
+
+.news-post > header {
+    margin-bottom: 15px;
+}
+
+.news-post p {
+    margin-top: 0px;
+}
+
+.news-post-date {
+    background-color: lightgrey;
+    padding: 4px 7px 4px 7px;
+    font-size: 14px;
+    margin: 0;
+}
+
+.news-post img {
+	max-width: 100%;
+}

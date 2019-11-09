@@ -1,0 +1,58 @@
+{
+  "address": "Address",
+  "telephone": "Telephone",
+  "fax": "Fax",
+  "about": {
+    "title": "About Us",
+    "team": "Team"
+  },
+  "drug_info": {
+    "title": "Drug Info"
+  },
+  "news": {
+    "title": "News"
+  },
+  "contact": {
+    "title": "Contact"
+  },
+  "page404": {
+    "title": "404",
+    "text": "This page does not exist"
+  },
+  "home": {
+    "title": "Home"
+  },
+  "projects": {
+    "title": "Projects"
+  },
+  "publications": {
+    "title": "Publications",
+    "kaLink": "Georgian version",
+    "enLink": "English version"
+  },
+  "scientific_publications": {
+    "title": "Scientific Publications"
+  },
+  "technical_reports": {
+    "title": "Technical Reports"
+  },
+  "drug_situation_in_georgia": {
+    "title": "Drug Situation In Georgia"
+  },
+  "current": "Now",
+  "copyright": "\"Alternative Georgia\" all rights reserved",
+  "months": {
+    "01": "January",
+    "02": "February",
+    "03": "March",
+    "04": "April",
+    "05": "May",
+    "06": "June",
+    "07": "July",
+    "08": "August",
+    "09": "September",
+    "10": "October",
+    "11": "November",
+    "12": "December"
+  }      
+}
