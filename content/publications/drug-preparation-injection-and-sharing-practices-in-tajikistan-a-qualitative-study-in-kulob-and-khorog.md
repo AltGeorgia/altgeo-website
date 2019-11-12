@@ -1,7 +1,7 @@
 ---
 templateKey: publication
 publicationType: scientific_publication
-language: ka
+language: en
 image: /media/uploads/screenshot-40-.png
 title: >-
   Drug preparation, injection, and sharing practices in Tajikistan: a
