@@ -6,7 +6,7 @@ image: /media/uploads/screenshot-39-.png
 title: >-
   Nightlife and Drug Use in Tbilisi, Georgia: Results of an Exploratory
   Qualitative Study
-publishDate: 2020-02-20T11:17:00.000Z
+publishDate: 2019-02-20T11:17:00.000Z
 description: 'Scientific Publication '
 upload: false
 kaFile: ''
