@@ -1,8 +1,8 @@
 ---
 templateKey: publication
 publicationType: scientific_publication
-language: ka
-image: /media/uploads/screenshot-39-.png
+language: en
+image: /media/uploads/screenshot-51-.png
 title: >-
   Feasibility of needle and syringe programs in Tajikistan distributing low dead
   space needles
