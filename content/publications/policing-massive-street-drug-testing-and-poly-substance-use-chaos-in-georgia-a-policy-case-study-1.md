@@ -1,7 +1,7 @@
 ---
 templateKey: publication
 publicationType: scientific_publication
-language: ka
+language: en
 image: /media/uploads/screenshot-47-.png
 title: >-
   Policing, massive street drug testing and poly-substance use chaos in Georgia
