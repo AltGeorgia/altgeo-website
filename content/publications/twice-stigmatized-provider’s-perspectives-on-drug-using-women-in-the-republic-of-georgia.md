@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: en
-image: /media/uploads/screenshot-57-.png
+image: /media/uploads/zdgfsd.png
 title: >-
   Twice Stigmatized: Provider’s Perspectives on Drug-Using Women in the Republic
   of Georgia
