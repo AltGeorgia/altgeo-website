@@ -9,6 +9,8 @@ title: >-
 publishDate: 2016-06-02T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
 upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890278/'
+enFile: >-
+  /media/uploads/drug-preparation-injection-and-sharing-practices-in-tajikistan.pdf
+enLink: ''
 ---
 
