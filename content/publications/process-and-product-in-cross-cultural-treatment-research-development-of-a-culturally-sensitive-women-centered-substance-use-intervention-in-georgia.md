@@ -8,7 +8,8 @@ title: >-
   Culturally Sensitive Women-Centered Substance Use Intervention in Georgia
 publishDate: 2014-09-22T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
-upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4190114/'
+upload: true
+enFile: /media/uploads/process-and-product-in-cross-cultural-treatment-research.pdf
+enLink: ''
 ---
 
