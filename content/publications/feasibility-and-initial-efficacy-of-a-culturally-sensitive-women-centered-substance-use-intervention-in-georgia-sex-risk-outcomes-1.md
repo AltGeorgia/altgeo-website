@@ -8,7 +8,9 @@ title: >-
   substance use intervention in Georgia: Sex risk outcomes
 publishDate: 2015-12-08T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
-upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4672492/'
+upload: true
+enFile: >-
+  /media/uploads/feasibility-and-initial-efficacy-of-a-culturally-sensitive-women-centered-substance-use-intervention-in-georgia.pdf
+enLink: ''
 ---
 
