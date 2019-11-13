@@ -8,7 +8,7 @@ title: >-
   space needles
 publishDate: 2018-08-31T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
-upload: false
+upload: true
 enFile: >-
   /media/uploads/feasibility-of-needle-and-syringe-programs-in-tajikistan-distributing-low-dead-space-needles.pdf
 enLink: ''
