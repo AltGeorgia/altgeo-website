@@ -8,7 +8,9 @@ title: >-
   of Georgia
 publishDate: 2013-03-04T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
-upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4115446/'
+upload: true
+enFile: >-
+  /media/uploads/twice-stigmatized-provider-s-perspectives-on-drug-using-women-in-the-republic-of-georgia..pdf
+enLink: ''
 ---
 
