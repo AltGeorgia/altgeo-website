@@ -12,6 +12,6 @@ description: სამეცნიერო პუბლიკაცია
 upload: false
 enFile: >-
   /media/uploads/perceived-acceptability-of-and-willingness-to-use-syringe-vending-machines.pdf
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6429706/'
+enLink: ''
 ---
 
