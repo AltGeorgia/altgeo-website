@@ -8,7 +8,9 @@ title: >-
   syringes
 publishDate: 2018-01-15T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
-upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769352/'
+upload: true
+enFile: >-
+  /media/uploads/options-for-reducing-hiv-transmission-related-to-the-dead-space-in-needles-and-syringes.pdf
+enLink: ''
 ---
 
