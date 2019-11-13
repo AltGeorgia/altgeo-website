@@ -8,7 +8,9 @@ title: >-
   buprenorphine-naloxone or methadone in the Republic of Georgia
 publishDate: 2014-10-22T11:05:00.000Z
 description: Scientific Publication
-upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pubmed/25456093'
+upload: true
+enFile: >-
+  /media/uploads/options-for-reducing-hiv-transmission-related-to-the-dead-space-in-needles-and-syringes.pdf
+enLink: ''
 ---
 
