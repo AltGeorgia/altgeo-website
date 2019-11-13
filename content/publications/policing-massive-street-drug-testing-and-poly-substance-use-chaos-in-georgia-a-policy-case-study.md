@@ -9,6 +9,8 @@ title: >-
 publishDate: 2016-01-16T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
 upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715284/'
+enFile: >-
+  /media/uploads/policing-massive-street-drug-testing-and-poly-substance-use-chaos-in-georgia-a-policy-case-study.pdf
+enLink: ''
 ---
 
