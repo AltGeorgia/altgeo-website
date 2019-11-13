@@ -8,7 +8,9 @@ title: >-
   Kulob and Khorog, Tajikistan
 publishDate: 2014-11-25T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
-upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4294955/'
+upload: true
+enFile: >-
+  /media/uploads/drug-scene-drug-use-and-drug-related-health-consequences-and-responses-in-kulob-and-khorog-tajikistan.pdf
+enLink: ''
 ---
 
