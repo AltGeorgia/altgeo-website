@@ -8,7 +8,9 @@ title: >-
   Georgia: Behavioral Treatment + Naltrexone compared to Usual Care
 publishDate: 2011-07-13T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
-upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3377370/'
+upload: true
+enFile: >-
+  /media/uploads/drug-use-and-hiv-risk-outcomes-in-opioid-injecting-men-in-the-republic-of-georgia.pdf
+enLink: ''
 ---
 
