@@ -8,7 +8,9 @@ title: >-
   Republic of Georgia
 publishDate: 2012-01-05T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
-upload: false
-enLink: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413379/'
+upload: true
+enFile: >-
+  /media/uploads/behavioral-treatment-naltrexone-reduces-drug-use-and-legal-problems-in-the-republic-of-georgia.pdf
+enLink: ''
 ---
 
