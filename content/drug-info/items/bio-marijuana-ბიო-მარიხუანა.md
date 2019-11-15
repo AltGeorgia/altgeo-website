@@ -1,7 +1,7 @@
 ---
 templateKey: drug_info_item
 language: ka
-title: Bio-Marijuana- ბიო-მარიხუანა
+title: ბიო მარიხუანა
 image: /media/uploads/marijuana.png
 ---
 **დასახელება:** _ბიო-მარიხუანა, სინთეზური კანაბინოიდები_
