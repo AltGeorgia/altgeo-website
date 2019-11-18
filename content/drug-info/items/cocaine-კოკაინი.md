@@ -2,7 +2,7 @@
 templateKey: drug_info_item
 language: ka
 title: კოკაინი
-image: /media/uploads/cocaine.png
+image: /media/uploads/spoon.png
 ---
 **დასახელება:** _კოკაინი_
 
