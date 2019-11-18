@@ -2,7 +2,7 @@
 templateKey: drug_info_item
 language: ka
 title: ჰეროინი
-image: /media/uploads/spoon.png
+image: /media/uploads/opium.png
 ---
 **დასახელება:** _ჰეროინი_ 
 
