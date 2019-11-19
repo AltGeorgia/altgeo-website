@@ -1,7 +1,7 @@
 ---
 templateKey: drug_info_item
 language: ka
-title: ექსტაზი
+title: MDMA/ექსტაზი
 image: /media/uploads/tablets.png
 ---
 **დასახელება:** _ექსტაზი (MDMA)_
