@@ -2,7 +2,7 @@
 templateKey: drug_info_item
 language: ka
 title: ბიო მარიხუანა
-image: /media/uploads/marijuana.png
+image: /media/uploads/biosynthetic-cannabinoids.png
 ---
 **დასახელება:** _ბიო-მარიხუანა, სინთეზური კანაბინოიდები_
 
