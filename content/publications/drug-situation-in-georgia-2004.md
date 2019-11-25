@@ -6,7 +6,7 @@ image: /media/uploads/screenshot-19-.png
 title: Drug Situation In Georgia 2004
 publishDate: 2005-11-10T11:17:00.000Z
 description: 'Annual Report '
-upload: false
+upload: true
 enFile: /media/uploads/eng-book-2004.pdf
 ---
 
