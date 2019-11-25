@@ -33,7 +33,7 @@
 }
 
 .home-header-text-container > h1 {
-    text-transform: uppercase;
+    letter-spacing: 0.5px;
     color: white;
     text-shadow: 0px 0px 2px black;
     font-weight: 800;
