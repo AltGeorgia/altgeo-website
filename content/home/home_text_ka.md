@@ -1,6 +1,7 @@
 ---
 templateKey: home_text
 language: ka
-title: "პოლიტიკა პრაქტიკა"
-subtitle: "დროებითი ტექსტი"
+title: მეცნიერება პოლიტიკისა და პრაქტიკის სამსახურში
+subtitle: დროებითი ტექსტი
 ---
+
