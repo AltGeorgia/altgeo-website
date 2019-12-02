@@ -3,7 +3,7 @@ templateKey: team_member
 language: en
 fullName: Tamar Mgebrishvili
 role: Research Assistant
-image: /media/uploads/2019-06-21.jpg
+image: /media/uploads/Tamar.jpg
 bio: >-
   Tamar Mgebrishvili obtained a Master’s degree of Addiction Studies at Ilia
   State University. She is working for Addiction Research Center Alternative
