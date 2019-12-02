@@ -109,9 +109,9 @@ export const pageQuery = graphql`
     }
   }
 
-  contactInfo: allMarkdownRemark(filter: {
-    frontmatter: { templateKey: { eq: "contact_info" } }
-  }) {
+  contactInfo: allMarkdownRemark(
+    filter: { frontmatter: { templateKey: { eq: "contact_info" } } }
+  ) {
     edges {
       node {
         frontmatter {
@@ -127,6 +127,7 @@ export const pageQuery = graphql`
   }
 
   teamMembers: allMarkdownRemark(
+    sort: {order: DESC, fields: id},
     filter: { frontmatter: { templateKey: { eq: "team_member" } } }
   ) {
     edges {
