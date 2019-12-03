@@ -2,7 +2,7 @@
 templateKey: team_member
 language: en
 fullName: David Otiashvili
-role: CEO
+role: Director
 image: /media/uploads/Dato.jpg
 bio: >-
   David Otiashvili, MD, PhD. Graduated from Tbilisi State Medical University in
