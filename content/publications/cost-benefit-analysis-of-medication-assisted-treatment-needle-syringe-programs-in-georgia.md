@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: technical_report
 language: en
-image: /media/uploads/screenshot-90-.png
+image: /media/uploads/screenshot-103-.png
 title: >-
   Cost-Benefit Analysis Of Medication Assisted Treatment & Needle-Syringe
   Programs In Georgia
