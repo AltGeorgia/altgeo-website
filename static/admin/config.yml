@@ -89,7 +89,7 @@ collections:
     name: "news"
     folder: "content/news"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
     editor:
       preview: false
     fields:
@@ -129,7 +129,7 @@ collections:
     name: "projects"
     folder: "content/projects"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
     editor:
       preview: false
     fields:
