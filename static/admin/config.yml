@@ -169,6 +169,7 @@ collections:
       - { label: "ენა", name: "language", widget: "select", options: ["ka", "en"] }
       - { label: "სახელი და გვარი", name: "fullName", widget: "string" }
       - { label: "თანამდებობა/როლი", name: "role", widget: "string" }
+      - { label: "რიგის პრიორიტეტი", name: "priority", widget: "number", default: 3, step: 1, valueType: "int" }
       - { label: "სურათი", name: "image", widget: "image", allow_multiple: false, media_library: { config: { multiple: false } } }
       - { label: "ბიო", name: "bio", widget: "text" }
   - label: "ნარკო-ინფო ტექსტი"

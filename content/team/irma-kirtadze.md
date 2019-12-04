@@ -4,6 +4,7 @@ language: en
 fullName: Irma Kirtadze
 role: Researcher
 image: /media/uploads/irma.jpg
+priority: 1
 bio: >-
   Irma Kirtadze, M.D. Ph.D., – graduated from State Medical Academy of Georgia
   in 2006 and received qualification of Psychiatrist. Dr. Kirtadze studied

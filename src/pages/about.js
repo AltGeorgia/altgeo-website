@@ -127,7 +127,7 @@ export const pageQuery = graphql`
   }
 
   teamMembers: allMarkdownRemark(
-    sort: {order: DESC, fields: id},
+    sort: {order: ASC, fields: frontmatter___priority },
     filter: { frontmatter: { templateKey: { eq: "team_member" } } }
   ) {
     edges {

@@ -4,6 +4,7 @@ language: en
 fullName: Ada Beselia
 role: Research assistant
 image: /media/uploads/Ada.jpg
+priority: 3
 bio: >-
   In 2015 she graduated from the faculty of Psychology of Tbilisi State
   University . In 2018 she got her MA degree in Addiction Studies (Addictology)
