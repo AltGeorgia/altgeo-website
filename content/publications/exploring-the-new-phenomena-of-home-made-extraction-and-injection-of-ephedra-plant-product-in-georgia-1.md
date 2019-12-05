@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-49-.png
+image: /media/uploads/pub-med.png
 title: >-
   Exploring the New Phenomena of Home-Made Extraction and Injection of Ephedra
   Plant Product in Georgia
