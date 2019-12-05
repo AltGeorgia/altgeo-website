@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: en
-image: /media/uploads/screenshot-41-.png
+image: /media/uploads/harm-reduction.png
 title: >-
   Perceived acceptability of and willingness to use syringe vending machines:
   results of a cross-sectional survey of out-of-service people who inject drugs
