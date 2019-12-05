@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-39-.png
+image: /media/uploads/pub-med.png
 title: >-
   Nightlife and Drug Use in Tbilisi, Georgia: Results of an Exploratory
   Qualitative Study
