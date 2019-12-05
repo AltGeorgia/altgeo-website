@@ -2,7 +2,7 @@
 templateKey: project_item
 language: en
 title: Community policing and drug related harm reduction
-image: /media/uploads/screenshot-91-.png
+image: /media/uploads/screenshot-106-.png
 startDate: 2019-01-08T10:26:00.000Z
 current: true
 endDate: 2019-12-30T20:00:00.000Z
