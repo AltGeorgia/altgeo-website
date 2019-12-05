@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/aesrdtfyguvhbu.png
+image: /media/uploads/harm-reduction.png
 title: >-
   Options for reducing HIV transmission related to the dead space in needles and
   syringes
