@@ -1,7 +1,7 @@
 ---
 templateKey: publication
 publicationType: scientific_publication
-language: en
+language: ka
 image: /media/uploads/სუბსტანს.jpg
 title: >-
   Patterns of use of new psychoactive substances and perceived benefits and
