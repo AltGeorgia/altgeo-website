@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: en
-image: /media/uploads/zdgfsd.png
+image: /media/uploads/substance-abuse-treatment-prevention-and-policy.jpg
 title: >-
   Feasibility and initial efficacy of a culturally sensitive women-centered
   substance use intervention in Georgia: Sex risk outcomes
