@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-47-.png
+image: /media/uploads/substance-abuse-treatment-prevention-and-policy.jpg
 title: >-
   Policing, massive street drug testing and poly-substance use chaos in Georgia
   - a policy case study
