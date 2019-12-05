@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/სუბსტანს.jpg
+image: /media/uploads/substance-abuse-treatment-prevention-and-policy.jpg
 title: >-
   Drug preparation, injection, and sharing practices in Tajikistan: a
   qualitative study in Kulob and Khorog
