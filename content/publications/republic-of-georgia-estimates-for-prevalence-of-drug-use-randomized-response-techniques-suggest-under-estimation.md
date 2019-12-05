@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-41-.png
+image: /media/uploads/pub-med.png
 title: >-
   Republic of Georgia estimates for prevalence of drug use: Randomized response
   techniques suggest under-estimation
