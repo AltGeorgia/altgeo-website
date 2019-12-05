@@ -2,7 +2,7 @@
 templateKey: team_member
 language: en
 fullName: Mzia Tabatadze
-role: M&E Specialist
+role: 'Public Health Expert '
 priority: 4
 image: /media/uploads/მზიკოოო.jpg
 bio: >-
