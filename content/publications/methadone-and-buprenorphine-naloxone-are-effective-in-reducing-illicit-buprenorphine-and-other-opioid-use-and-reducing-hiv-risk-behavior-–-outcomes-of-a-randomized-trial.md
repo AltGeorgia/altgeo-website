@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: en
-image: /media/uploads/aesrdtfyguvhbu.png
+image: /media/uploads/screenshot-111-.png
 title: >-
   Methadone and buprenorphine-naloxone are effective in reducing illicit
   buprenorphine and other opioid use, and reducing HIV risk behavior – Outcomes
