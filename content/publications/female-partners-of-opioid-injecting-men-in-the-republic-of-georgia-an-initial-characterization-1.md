@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: en
-image: /media/uploads/screenshot-58-.png
+image: /media/uploads/substance-abuse-treatment-prevention-and-policy.jpg
 title: >-
   Female partners of opioid-injecting men in the Republic of Georgia: an initial
   characterization
