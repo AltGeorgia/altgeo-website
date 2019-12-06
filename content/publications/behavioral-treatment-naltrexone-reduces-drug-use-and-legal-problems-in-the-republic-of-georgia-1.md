@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-54-.png
+image: /media/uploads/screenshot-114-.png
 title: >-
   Behavioral Treatment + Naltrexone Reduces Drug Use and Legal Problems in the
   Republic of Georgia
