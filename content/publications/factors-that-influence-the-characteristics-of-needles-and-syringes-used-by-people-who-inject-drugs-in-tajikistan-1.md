@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-50-.png
+image: /media/uploads/harm-reduction.png
 title: >-
   Factors that influence the characteristics of needles and syringes used by
   people who inject drugs in Tajikistan
