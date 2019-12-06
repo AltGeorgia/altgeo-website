@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: en
-image: /media/uploads/pub-med.png
+image: /media/uploads/substance-use-misuse.jpg
 title: >-
   Exploring the New Phenomena of Home-Made Extraction and Injection of Ephedra
   Plant Product in Georgia
