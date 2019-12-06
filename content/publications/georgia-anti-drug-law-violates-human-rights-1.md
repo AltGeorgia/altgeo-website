@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/zdgfsd.png
+image: /media/uploads/pub-med.png
 title: 'Georgia: anti-drug law violates human rights'
 publishDate: 2007-12-12T11:05:00.000Z
 description: სამეცნიერო პუბლიკაცია
