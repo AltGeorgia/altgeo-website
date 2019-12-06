@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-39-.png
+image: /media/uploads/screenshot-115-.png
 title: >-
   Drug Use and HIV Risk Outcomes in Opioid-Injecting Men in the Republic of
   Georgia: Behavioral Treatment + Naltrexone compared to Usual Care
