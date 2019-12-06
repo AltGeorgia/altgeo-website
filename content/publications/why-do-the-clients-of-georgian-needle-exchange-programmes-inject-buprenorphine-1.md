@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: en
-image: /media/uploads/aesrdtfyguvhbu.png
+image: /media/uploads/pub-med.png
 title: >-
   Why do the clients of Georgian needle exchange programmes inject
   buprenorphine?
