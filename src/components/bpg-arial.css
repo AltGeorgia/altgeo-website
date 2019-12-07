@@ -6,4 +6,7 @@
          url('/media/fonts/bpg-arial-webfont.woff') format('woff'), /* Pretty Modern Browsers */
          url('/media/fonts/bpg-arial-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('/media/fonts/bpg-arial-webfont.svg#bpg_arialregular') format('svg'); /* Legacy iOS */
+    unicode-range: U+10D0-10F0;
 }
+
+/* @import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap'); */
