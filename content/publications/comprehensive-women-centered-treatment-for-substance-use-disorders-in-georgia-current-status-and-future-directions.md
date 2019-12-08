@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-110-.png
+image: /media/uploads/journal-in-substance-abuse.jpg
 title: >-
   Comprehensive Women-centered Treatment for Substance Use Disorders in Georgia:
   Current Status and Future Directions
