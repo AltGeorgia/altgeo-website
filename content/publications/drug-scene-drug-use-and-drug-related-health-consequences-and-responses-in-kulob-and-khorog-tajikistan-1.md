@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-107-.png
+image: /media/uploads/j-drug-policy.gif
 title: >-
   Drug scene, drug use and drug-related health consequences and responses in
   Kulob and Khorog, Tajikistan
