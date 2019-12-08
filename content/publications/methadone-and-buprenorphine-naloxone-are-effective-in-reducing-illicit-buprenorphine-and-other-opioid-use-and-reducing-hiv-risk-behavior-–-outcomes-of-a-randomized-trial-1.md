@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-111-.png
+image: /media/uploads/drug-alcohol-depend-2.jpg
 title: >-
   Methadone and buprenorphine-naloxone are effective in reducing illicit
   buprenorphine and other opioid use, and reducing HIV risk behavior – Outcomes
