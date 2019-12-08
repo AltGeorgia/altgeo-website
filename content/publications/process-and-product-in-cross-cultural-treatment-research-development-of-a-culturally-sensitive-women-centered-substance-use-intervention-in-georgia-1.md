@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: en
-image: /media/uploads/screenshot-109-.png
+image: /media/uploads/journal-of-addiction.png
 title: >-
   Process and Product in Cross-Cultural Treatment Research: Development of a
   Culturally Sensitive Women-Centered Substance Use Intervention in Georgia
