@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: ka
-image: /media/uploads/screenshot-112-.png
+image: /media/uploads/j-drug-policy.gif
 title: >-
   Access to treatment for substance-using women in the Republic of Georgia:
   Socio-cultural and structural barriers
