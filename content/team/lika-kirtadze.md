@@ -2,7 +2,7 @@
 templateKey: team_member
 language: en
 fullName: Lika Kirtadze
-role: 'Projects Manager '
+role: 'Project Manager '
 priority: 5
 image: /media/uploads/likunikiii.jpg
 bio: >-
