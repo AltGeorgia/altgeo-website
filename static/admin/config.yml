@@ -98,7 +98,7 @@ collections:
       - { label: "სათაური", name: "title", widget: "string" }
       - { label: "გამოქვეყნების თარიღი", name: "date", widget: "datetime" }
       - { label: "მოკლე აღწერა", name: "description", widget: "text" }
-      - { label: "სხეული", name: "body", widget: "markdown" }
+      - { label: "სხეული", name: "body", widget: "markdown", hint: "სურათების სიისთვის გამოიყენეთ <div class='image-list'> და შემდგომ </div>" }
   - label: "პუბლიკაციები"
     name: "publications"
     folder: "content/publications"
