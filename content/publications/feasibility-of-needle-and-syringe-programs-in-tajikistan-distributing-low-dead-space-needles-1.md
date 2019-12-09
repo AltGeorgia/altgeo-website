@@ -7,7 +7,7 @@ title: >-
   Feasibility of needle and syringe programs in Tajikistan distributing low dead
   space needles
 publishDate: 2018-08-31T11:05:00.000Z
-description: სამეცნიერო პუბლიკაცია
+description: Scientific Publication
 upload: true
 enFile: >-
   /media/uploads/feasibility-of-needle-and-syringe-programs-in-tajikistan-distributing-low-dead-space-needles.pdf
