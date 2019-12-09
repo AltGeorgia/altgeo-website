@@ -7,7 +7,7 @@ title: >-
   Twice Stigmatized: Provider’s Perspectives on Drug-Using Women in the Republic
   of Georgia
 publishDate: 2013-03-04T11:05:00.000Z
-description: სამეცნიერო პუბლიკაცია
+description: Scientific Publication
 upload: true
 enFile: >-
   /media/uploads/twice-stigmatized-provider-s-perspectives-on-drug-using-women-in-the-republic-of-georgia..pdf
