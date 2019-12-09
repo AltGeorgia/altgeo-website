@@ -19,5 +19,22 @@
 }
 
 .news-post img {
-	max-width: 100%;
+    max-width: 100%;
+}
+
+.news-post .image-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.news-post .image-list > p {
+    display: inline;
+}
+
+.news-post .image-list > p > img {
+    max-width: 300px;
 }
