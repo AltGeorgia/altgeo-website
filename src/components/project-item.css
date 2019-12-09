@@ -32,6 +32,7 @@
 .project-item > main {
     line-height: 1.4;
     margin: 15px 0px 8px 10px;
+    text-align: justify;
 }
 
 .project-item > footer {
@@ -40,7 +41,7 @@
 
 
 .project-item h1 {
-    font-size: 1.6em;
+    font-size: 1.4em;
     margin-bottom: 15px;
 }
 
