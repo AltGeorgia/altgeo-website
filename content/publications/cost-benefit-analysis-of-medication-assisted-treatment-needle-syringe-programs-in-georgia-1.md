@@ -7,7 +7,7 @@ title: >-
   Cost-Benefit Analysis Of Medication Assisted Treatment & Needle-Syringe
   Programs In Georgia
 publishDate: 2016-07-07T12:00:00.000Z
-description: ' Final Report'
+description: ' '
 upload: true
 kaFile: ''
 enFile: /media/uploads/cba-report-final.pdf
