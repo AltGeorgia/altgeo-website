@@ -3,8 +3,8 @@ templateKey: team_member
 language: en
 fullName: David Otiashvili
 role: Director
-image: /media/uploads/Dato.jpg
 priority: 0
+image: /media/uploads/დათო.jpg
 bio: >-
   David Otiashvili, MD, PhD. Graduated from Tbilisi State Medical University in
   1992, received qualification of Psychiatrist. Spent ten years in clinical work
