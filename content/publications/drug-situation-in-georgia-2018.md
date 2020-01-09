@@ -6,7 +6,7 @@ image: /media/uploads/screenshot-132-.png
 imageAlt: ''
 title: Drug Situation In Georgia 2018
 publishDate: 2019-11-29T10:48:59.171Z
-description: 'Executive Summary '
+description: Annual Report
 upload: true
 enFile: /media/uploads/drug-situation-in-georgia-2018-summary.pdf
 kaLink: ''
