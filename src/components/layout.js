@@ -9,7 +9,7 @@ import "./bpg-arial.css"
 
 export default ({ location, children }) => {
   const [isHamburgerClosed, setHamburgerClosed] = useState(true)
-  const isMobile = useMediaQuery({ query: "screen and (max-width: 800px)" })
+  const isMobile = useMediaQuery({ query: "screen and (max-width: 825px)" })
   const { site } = useStaticQuery(
     graphql`{
       site {

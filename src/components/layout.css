@@ -60,6 +60,7 @@ p {
 
 .main-content {
     padding: 0px 20px 20px 20px;
+    overflow: auto;
 }
 
 .site-footer {
@@ -90,7 +91,7 @@ p {
     background-color: crimson;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 825px) {
     .hamburger {
         display: block;
     }

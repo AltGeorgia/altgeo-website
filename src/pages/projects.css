@@ -1,0 +1,17 @@
+.project-list {
+    width: calc(50% - 15px);
+}
+
+.float-right {
+    float: right;
+}
+
+@media screen and (max-width: 825px) {
+    .float-right {
+        float: none;
+    }
+
+    .project-list {
+        width: 100%;
+    }
+}

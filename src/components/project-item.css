@@ -1,13 +1,12 @@
 .project-item {
     padding: 8px 8px 8px 0px;
     margin-top: 15px;
-    margin-bottom: 5px;
-    width: calc(50% - 20px);
+    margin-bottom: 20px;
+    width: 100%;
 }
 
 @media screen and (max-width: 600px) {
     .project-item {
-        width: 100%;
         margin-left: 0;
         margin-right: 0;
         padding: 0;
@@ -50,12 +49,4 @@
     padding: 4px 7px 4px 7px;
     font-size: 14px;
     margin: 0;
-}
-
-.project-item-list {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-start;
-    flex-wrap: wrap;
 }
