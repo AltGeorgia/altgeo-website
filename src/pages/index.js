@@ -28,9 +28,9 @@ export default ({ location, data }) => {
                 <h1>
                   {header.title}
                 </h1>
-                <h3>
+                {/*<h3>
                   {header.subtitle}
-                </h3>
+                  </h3>*/}
               </div>
             </div>
           )
