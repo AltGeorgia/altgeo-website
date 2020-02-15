@@ -5,7 +5,7 @@ title: 'Access to Opioid substitution treatment in Georgian penitentiary system 
 image: /media/uploads/screenshot-90-.png
 startDate: 2019-07-01T10:26:00.000Z
 current: false
-endDate: 2020-01-30T20:00:00.000Z
+endDate: 2020-01-31T20:00:00.000Z
 description: >-
   Opioid Substitution Treatment (OST) is effective intervention for people who
   inject drugs (PWID). While access to OST is increasing in civil sector, it
