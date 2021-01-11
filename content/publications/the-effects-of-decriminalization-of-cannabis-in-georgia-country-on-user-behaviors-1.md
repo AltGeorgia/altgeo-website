@@ -2,7 +2,7 @@
 templateKey: publication
 publicationType: scientific_publication
 language: en
-image: /media/uploads/substance-abuse-treatment-prevention-and-policy.jpg
+image: /media/uploads/სუბსტანს.jpg
 title: >-
   The effects of decriminalization of cannabis in Georgia (country) on user
   behaviors
