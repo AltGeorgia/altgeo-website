@@ -31,7 +31,7 @@ export default ({ location, children }) => {
 
   // Analytics
   useEffect(() => {
-    fetch("http://165.227.147.178:8338/" + encodeURI(document.URL))
+    fetch("https://sigma.ge/altgeorgia.ge-analytics/" + encodeURI(document.URL))
       .then(function(){}).catch(function(){});
   }, [])
 
