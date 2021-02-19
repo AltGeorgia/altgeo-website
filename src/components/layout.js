@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { useState, useEffect } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { Link, IntlContextConsumer, FormattedMessage } from "gatsby-plugin-intl"
 import { useMediaQuery } from "react-responsive"
@@ -30,8 +30,11 @@ export default ({ location, children }) => {
   const logos = site.siteMetadata.intlImages.altgeoLogo
 
   // Analytics
-  fetch("http://165.227.147.178:7337/" + encodeURI(document.URL))
-    .then(function(){}).catch(function(){});
+  useEffect(() => {
+    fetch("http://165.227.147.178:8338/" + encodeURI(document.URL))
+      .then(function(){}).catch(function(){});
+  }, [])
+
 
   return (
     <div className="site-container">
