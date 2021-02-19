@@ -31,7 +31,7 @@ export default ({ location, children }) => {
 
   // Analytics
   useEffect(() => {
-    fetch("https://sigma.ge/altgeorgia.ge-analytics/" + encodeURI(document.URL))
+    fetch("https://sigma.ge/altgeorgia.ge-analytics/" + document.URL)
       .then(function(){}).catch(function(){});
   }, [])
 
