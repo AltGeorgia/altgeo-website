@@ -23,7 +23,7 @@ export default ({ location, data }) => {
             <br />
             {i.address}
             <br />
-            {i.addressExtra ? i.addressExtra : (<div />)}
+            {i.addressExtra ? i.addressExtra : (<span />)}
           </p>
           ) : (<div />)}
 
@@ -33,7 +33,7 @@ export default ({ location, data }) => {
             <br />
             {i.telephone}
             <br />
-            {i.telephoneExtra ? i.telephoneExtra : (<div />)}
+            {i.telephoneExtra ? i.telephoneExtra : (<span />)}
           </p>
         ) : (<div />)}
 
@@ -74,6 +74,7 @@ export default ({ location, data }) => {
                 .filter(m => m.frontmatter.language === intl.language)
                 .map((m, i) =>
                 <TeamMember
+                  key={i}
                   fullName={m.frontmatter.fullName}
                   role={m.frontmatter.role}
                   bio={m.frontmatter.bio}
