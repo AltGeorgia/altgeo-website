@@ -48,10 +48,14 @@
     display: inline-block;
     margin-right: 10px;
     margin-bottom: 10px;
-    background-color: #33C3F0;
+    background-color: #47C9F1;
     color: white;
     padding: 7px 11px;
     text-decoration: none;
+}
+
+.publication-item-link:hover {
+    background-color: #289CC0;
 }
 
 .publication-item-list {
