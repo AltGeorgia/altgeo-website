@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
+local_backend: true
 media_folder: static/media/uploads
 public_folder: /media/uploads
 display_url: https://altgeorgia.ge
@@ -152,13 +153,16 @@ collections:
     fields:
       - { label: "Template Key", name: "templateKey", widget: "hidden", default: "training" }
       - { label: "ენა", name: "language", widget: "select", options: ["ka", "en"] }
-      - { label: "ტრენინგის სახელი", name: "title", widget: "string" }
+      - { label: "ტრენინგის სათაური", name: "title", widget: "string" }
+      - { label: "რიგის პრიორიტეტი", name: "priority", widget: "number", default: 3, step: 1, valueType: "int" }
       - label: "დოკუმენტები"
         name: "documents"
-        widget: "file"
-        media_library:
-          config:
-            multiple: true
+        widget: "list"
+        allow_add: true
+        summary: '{{fields.title}}'
+        fields:
+          - { label: "სათაური", name: "title", widget: "string" }
+          - { label: "დოკუმენტი", name: "document", widget: "file", allow_multiple: false, media_library: { config: { multiple: false } }}
   - label: "ნარკოტიკებზე ინფორმაცია"
     name: "drug_info_items"
     folder: "content/drug-info/items"

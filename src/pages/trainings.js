@@ -5,9 +5,10 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PublicationItem from "../components/publication-item"
 import formatDate from "../util/format-date"
+import Training from "../components/training"
 
 export default ({ location, data }) => {
-  const publications = data.allMarkdownRemark.edges.map(i => i.node.frontmatter)
+  const trainings = data.allMarkdownRemark.edges.map(i => i.node.frontmatter)
 
   return (
     <Layout location={location}>
@@ -19,18 +20,14 @@ export default ({ location, data }) => {
       </h1>
       <hr className={"page-title-hr"} />
       <IntlContextConsumer>
-        {(intl) => publications
-          .filter(p => p.language === intl.language)
-          .map((p,i) =>
-            <PublicationItem
+        {(intl) => trainings
+          /* .filter(t => t.language === intl.language) */
+          .map((t,i) =>
+            <Training
               key={i}
-              title={p.title}
-              description={p.description}
-              image={p.image}
-              date={formatDate(intl, p.publishDate)}
-              kaLink={p.upload ? p.kaFile : p.kaLink}
-              enLink={p.upload ? p.enFile : p.enLink}
-            />
+              title={t.title}
+              description={t.description}
+              documents={t.documents} />
           )
         }
       </IntlContextConsumer>
@@ -41,13 +38,10 @@ export default ({ location, data }) => {
 export const pageQuery = graphql`
 {
   allMarkdownRemark(
-    sort: {
-      fields: [frontmatter___publishDate], order: DESC
-    },
+    sort: {order: ASC, fields: frontmatter___priority },
     filter: {
       frontmatter: {
-        templateKey: { eq: "publication" }
-        publicationType: { eq: "technical_report" }
+        templateKey: { eq: "training" }
       }
     }
   ) {
@@ -56,15 +50,11 @@ export const pageQuery = graphql`
         frontmatter {
           language
           title
-          image
-          imageAlt
           description
-          publishDate (formatString: "MM DD, YYYY")
-          enLink
-          kaLink
-          upload
-          kaFile
-          enFile
+          documents {
+            title
+            document
+          }
         }
       }
     }
