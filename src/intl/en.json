@@ -2,6 +2,7 @@
   "address": "Address",
   "telephone": "Telephone",
   "fax": "Fax",
+  "no_content_here": "There is no content here yet.",
   "about": {
     "title": "About Us",
     "team": "Team"

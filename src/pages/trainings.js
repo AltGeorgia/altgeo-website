@@ -20,15 +20,15 @@ export default ({ location, data }) => {
       </h1>
       <hr className={"page-title-hr"} />
       <IntlContextConsumer>
-        {(intl) => trainings
-          /* .filter(t => t.language === intl.language) */
-          .map((t,i) =>
-            <Training
-              key={i}
-              title={t.title}
-              description={t.description}
-              documents={t.documents} />
-          )
+        {(intl) => trainings.length === 0 ?
+         <p>{intl.messages.no_content_here}</p>
+         : trainings.map((t,i) =>
+           <Training
+             key={i}
+             title={t.title}
+             description={t.description}
+             documents={t.documents} />
+         )
         }
       </IntlContextConsumer>
     </Layout>
