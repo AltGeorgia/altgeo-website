@@ -25,5 +25,10 @@ startDate: 2004-10-08T09:35:00.000Z
 endDate: 2004-10-08T09:35:00.000Z
 current: false
 upload: false
+documents:
+    - title: "String"
+      document: "String"
+    - title: "String"
+      document: "String"
 ---
 String

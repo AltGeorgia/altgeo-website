@@ -162,7 +162,7 @@ collections:
         summary: '{{fields.title}}'
         fields:
           - { label: "სათაური", name: "title", widget: "string" }
-          - { label: "დოკუმენტი", name: "document", widget: "file", allow_multiple: false, media_library: { config: { multiple: false } }}
+          - { label: "დოკუმენტი", name: "document", widget: "file", allow_multiple: false, media_library: { config: { multiple: false } } }
   - label: "ნარკოტიკებზე ინფორმაცია"
     name: "drug_info_items"
     folder: "content/drug-info/items"
