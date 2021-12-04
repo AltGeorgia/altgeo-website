@@ -10,6 +10,7 @@ module.exports = {
       { paths: ["/drug-situation-in-georgia"], name: "drug-situation-in-georgia" },
       { paths: ["/scientific-publications"], name: "scientific-publications" },
       { paths: ["/technical-reports"], name: "technical-reports" },
+      { paths: ["/trainings"], name: "trainings" },
       { paths: ["/about"], name: "about" }
     ],
     intlImages: {

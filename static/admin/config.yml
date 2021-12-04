@@ -142,6 +142,23 @@ collections:
       - { label: "მიმდინარე", name: "current", widget: "boolean", default: false }
       - { label: "დასრულების თარიღი", name: "endDate", widget: "datetime", default: "", required: false }
       - { label: "აღწერა", name: "description", widget: "text" }
+  - label: "ტრენინგები"
+    name: "trainings"
+    folder: "content/trainings"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "training" }
+      - { label: "ენა", name: "language", widget: "select", options: ["ka", "en"] }
+      - { label: "ტრენინგის სახელი", name: "title", widget: "string" }
+      - label: "დოკუმენტები"
+        name: "documents"
+        widget: "file"
+        media_library:
+          config:
+            multiple: true
   - label: "ნარკოტიკებზე ინფორმაცია"
     name: "drug_info_items"
     folder: "content/drug-info/items"

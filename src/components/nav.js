@@ -52,6 +52,9 @@ export default ({ location, visible }) => {
           <Link to={"/drug-situation-in-georgia"} activeClassName={"active"}>
             <FormattedMessage id={"drug_situation_in_georgia.title"}/>
           </Link>
+          <Link to={"#"} activeClassName={"active"}>
+            <FormattedMessage id={"trainings.title"}/>
+          </Link>
         </div>
       </div>
 
