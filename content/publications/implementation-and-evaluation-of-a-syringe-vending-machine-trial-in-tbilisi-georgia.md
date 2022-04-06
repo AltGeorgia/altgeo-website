@@ -14,5 +14,6 @@ description: Syringe vending machines (SVM) have proven to be an effective
   Tbilisi, Georgia.
 upload: false
 kaFile: null
-enFile: https://www.sciencedirect.com/science/article/abs/pii/S095539592200069X
+enFile: ""
+enLink: https://www.sciencedirect.com/science/article/abs/pii/S095539592200069X
 ---
