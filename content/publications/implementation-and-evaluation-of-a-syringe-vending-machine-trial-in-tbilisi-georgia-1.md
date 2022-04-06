@@ -9,5 +9,6 @@ title: Implementation and evaluation of a syringe vending machine trial in
 publishDate: 2022-03-14T12:09:31.283Z
 description: "   "
 upload: false
-enFile: https://www.sciencedirect.com/science/article/abs/pii/S095539592200069X
+enFile: ""
+enLink: https://www.sciencedirect.com/science/article/abs/pii/S095539592200069X
 ---
