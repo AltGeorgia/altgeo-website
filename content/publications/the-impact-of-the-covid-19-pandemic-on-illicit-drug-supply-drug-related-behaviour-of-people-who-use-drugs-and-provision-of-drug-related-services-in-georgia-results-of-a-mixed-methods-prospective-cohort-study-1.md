@@ -13,5 +13,6 @@ description: This study examines the effects of COVID-19 related restrictions on
   (PWUD) regularly (at least weekly), and drug-related service provision in
   Tbilisi, Georgia.
 upload: false
-enFile: https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-022-00601-z
+enFile: ""
+enLink: https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-022-00601-z
 ---
