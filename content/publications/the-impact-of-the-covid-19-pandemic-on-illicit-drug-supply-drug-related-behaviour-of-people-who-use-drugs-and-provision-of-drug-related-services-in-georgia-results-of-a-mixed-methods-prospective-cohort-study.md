@@ -12,6 +12,7 @@ description: This study examines the effects of COVID-19 related restrictions on
   the supply of illicit drugs, drug-use behavior among people who use drugs
   (PWUD) regularly (at least weekly), and drug-related service provision in
   Tbilisi, Georgia.
-upload: false
-enFile: https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-022-00601-z
+upload: true
+enFile: ""
+enLink: https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-022-00601-z
 ---
