@@ -7,7 +7,7 @@ imageAlt: " "
 title: "The impact of the COVID-19 pandemic on illicit drug supply, drug-related
   behaviour of people who use drugs and provision of drug related services in
   Georgia: results of a mixed methods prospective cohort study"
-publishDate: 2022-04-06T12:32:06.622Z
+publishDate: 2022-03-09T12:32:06.622Z
 description: This study examines the effects of COVID-19 related restrictions on
   the supply of illicit drugs, drug-use behavior among people who use drugs
   (PWUD) regularly (at least weekly), and drug-related service provision in
