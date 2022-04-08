@@ -2,11 +2,10 @@
 templateKey: team_member
 language: en
 fullName: Ada Beselia
-role: Research assistant
-priority: 5
+role: Research assistant 01/04/2018-31/08/2021
+priority: 6
 image: /media/uploads/ad.jpeg
-bio: >-
-  In 2015 she graduated from the faculty of Psychology of Tbilisi State
+bio: In 2015 she graduated from the faculty of Psychology of Tbilisi State
   University . In 2018 she got her MA degree in Addiction Studies (Addictology)
   at Ilia State University. During her master’s studies, she started working as
   a research assistant at Addiction Research Center – Alternative Georgia. She
@@ -16,4 +15,3 @@ bio: >-
   approaches, drug use in nightlife settings, young/recreational users, New
   Psychoactive Substances (NPS), gambling and ect.
 ---
-
