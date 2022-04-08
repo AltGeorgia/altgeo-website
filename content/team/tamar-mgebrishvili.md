@@ -3,7 +3,7 @@ templateKey: team_member
 language: en
 fullName: Tamar Mgebrishvili
 role: Research assistant
-priority: 4
+priority: 3
 image: /media/uploads/Tamar.jpg
 bio: She obtained bachelor's degree of Psychology and Master’s degree of
   Addiction Studies at Ilia State University. Since 2017 she started working for
