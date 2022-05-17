@@ -2,7 +2,7 @@
 templateKey: team_member
 language: en
 fullName: Tamar Mgebrishvili
-role: Research assistant
+role: Researcher
 priority: 3
 image: /media/uploads/Tamar.jpg
 bio: She obtained bachelor's degree of Psychology and Master’s degree of
