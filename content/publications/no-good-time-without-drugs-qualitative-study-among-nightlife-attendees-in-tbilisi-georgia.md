@@ -8,9 +8,9 @@ title: "No Good Time Without Drugs: Qualitative Study Among Nightlife Attendees
   in Tbilisi, Georgia"
 publishDate: 2022-08-10T13:29:44.043Z
 description: >-
-  INTRODUCTION: Individuals who visit nightclubs and electronic dance music
-  (EDM) festivals tend to use psychoactive substances, often multiple
-  substances, in this setting and are at risk of serious negative health
+  Individuals who visit nightclubs and electronic dance music (EDM) festivals
+  tend to use psychoactive substances, often multiple substances, in this
+  setting and are at risk of serious negative health
 
   effects. This paper aims to explore respondents’ experiences and perceptions in order to have a better
 
