@@ -8,5 +8,6 @@ title: " AUDIT - ალკოჰოლის საზიანო მოხმ�
 publishDate: 2022-08-01T13:21:33.265Z
 description: " "
 upload: true
-enFile: /media/uploads/2022-audit-.pdf
+kaFile: /media/uploads/2022-audit-.pdf
+enFile: ""
 ---
