@@ -16,6 +16,6 @@ description: "Individuals who visit nightclubs and electronic dance music (EDM)
   focus group interviews with 30 EDM event attendees who reported psychoactive
   substance use at nightlife events. The data was analyzed using the Nvivo-v.10
   software."
-upload: false
+upload: true
 enFile: /media/uploads/22_010_kirtadze_final.pdf
 ---
