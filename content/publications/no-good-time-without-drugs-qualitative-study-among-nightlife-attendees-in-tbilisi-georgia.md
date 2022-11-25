@@ -16,5 +16,6 @@ description: >-
 
   understanding of patterns and motives related to psychoactive substance use and high-risk behaviors in EDM event attendees. METHODS: In-depth and focus group interviews with 30 EDM event attendees who reported psychoactive substance use at nightlife events. The data was analyzed using the Nvivo-v.10 software.
 upload: true
-kaFile: /media/uploads/22_010_kirtadze_final.pdf
+kaFile: ""
+enFile: /media/uploads/22_010_kirtadze_final.pdf
 ---
