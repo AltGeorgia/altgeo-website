@@ -104,6 +104,7 @@ collections:
     name: "publications"
     folder: "content/publications"
     create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
     editor:
       preview: false
     fields:
